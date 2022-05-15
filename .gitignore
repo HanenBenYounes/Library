@@ -1,0 +1,10 @@
+# dependencies
+/node_modules
+/dist
+# Environments
+env/
+ENV/
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
